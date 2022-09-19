@@ -1,3 +1,3 @@
 # Python Demo Expressions and Variable
 
-![Output](https://github.com/VaibhavMojidra/Python---Demo-Expressions-and-Variable/blob/master/output/output.png)
+![Output](https://github.com/VaibhavMojidra/Python---Demo-Expressions-And-Variable/blob/master/output/output.png)
